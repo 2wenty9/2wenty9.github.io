@@ -34,7 +34,7 @@ body
 
 @font-face{
 	font-family: supercell;
-	src: url(fonts/Supercell.ttf);
+	src: url('fonts/Supercell.ttf');
 	font-style: normal;
 	font-weight: 100;
 }
