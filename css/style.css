@@ -34,13 +34,13 @@ body
 
 @font-face{
 	font-family: supercell;
-	src: url('fonts/Supercell.ttf');
+	src: url(fonts/Supercell.ttf);
 	font-style: normal;
 	font-weight: 100;
 }
 @font-face{
 	font-family: scsub;
-	src: url('fonts/CCBB.ttf');
+	src: url(fonts/CCBB.ttf);
 }
 
 h1
