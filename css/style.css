@@ -1,0 +1,138 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color: #BE0A16;
+	cursor: url(C:/Users/rajib/Desktop/Web/img/Flecha.ani);
+	/*animation: bgcolor infinite 20s;*/
+}
+
+.logo {
+	margin: 0;
+	padding: 0;
+	height: 35%;
+	width: 35%;
+	position: absolute;
+	object-fit: contain;
+	top: 30%;
+	left: 20%;
+	transform: translateX(-50%) translateY(-50%);
+}
+
+.sword {
+	margin: 0;
+	padding: 0;
+	height: 40%;
+	width: 40%;
+	position: absolute;
+	object-fit: contain;
+	top: 45%;
+	left: 45%;
+	transform: translateX(-50%) translateY(-50%);
+}
+
+
+@font-face{
+	font-family: supercell;
+	src: url(C:/Users/rajib/Desktop/Web/fonts/Supercell.ttf);
+	font-style: normal;
+	font-weight: 100;
+}
+@font-face{
+	font-family: scsub;
+	src: url(C:/Users/rajib/Desktop/Web/fonts/CCBB.ttf);
+}
+
+h1
+{
+	margin: 0;
+	padding: 0;
+	font-family: supercell;
+	font-size: 3em;
+	color: #FEFFFC;
+	position: absolute;
+	top: 42%;
+	left: 20%;
+	transform: translateX(-50%) translateY(-50%);
+	text-align: center;
+}
+
+h2
+{
+	margin: 0;
+	padding: 0;
+	font-family: scsub;
+	font-size: 1.5em;
+	color: #C3BFBF;
+	position: absolute;
+	top: 47%;
+	left: 20%;
+	transform: translateX(-50%) translateY(-50%);
+	text-align: center;
+}
+
+h3
+{
+	margin: 0;
+	padding: 0;
+	font-family: scsub;
+	font-size: 1.5em;
+	color: #C3BFBF;
+	position: absolute;
+	top: 47%;
+	left: 85%;
+	transform: translateX(-50%) translateY(-50%);
+	text-align: center;
+}
+
+p1
+{
+	margin: 0;
+	padding: 0;
+	font-family: scsub;
+	font-size: 1.2em;
+	color: #FFF;
+	position: absolute;
+	top: 54%;
+	left: 20%;
+	transform: translateX(-50%) translateY(-50%);
+	text-align: center;
+}
+
+p2
+{
+	margin: 0px auto;
+	padding: 0;
+	width: 550px;
+	font-family: scsub;
+	font-size: 1.2em;
+	color: #C3BFBF;
+	position: absolute;
+	top: 64%;
+	left: 20%;
+	transform: translateX(-50%) translateY(-50%);
+	text-align: center;
+}
+
+iframe {
+	position: absolute;
+	width: 700px;
+	height: 400px;
+	top:26%;
+	right: 8%;
+}
+
+@keyframes bgcolor {
+	0%
+	{
+		background: #0c0c0c;
+	}
+	50%
+	{
+		background: #BE0A16;
+	}
+	100%
+	{
+		background: #0c0c0c;
+	}
+}
