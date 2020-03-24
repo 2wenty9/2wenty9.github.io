@@ -45,7 +45,7 @@ body
 }
 
 @font-face {
-    font-family: 'CCBackBeatW00';
+    font-family: 'CCBackBeatW00-Light';
     src: url('CCBackBeatW00-Light.eot');
     src: url('CCBackBeatW00-Light.eot?#iefix') format('embedded-opentype'),
         url('CCBackBeatW00-Light.woff2') format('woff2'),
@@ -74,7 +74,7 @@ h2
 {
 	margin: 0;
 	padding: 0;
-	font-family: CCBackBeatW00;
+	font-family: CCBackBeatW00-Light;
 	font-size: 1.5em;
 	color: #C3BFBF;
 	position: absolute;
@@ -88,7 +88,7 @@ h3
 {
 	margin: 0;
 	padding: 0;
-	font-family: CCBackBeatW00;
+	font-family: CCBackBeatW00-Light;
 	font-size: 1.5em;
 	color: #C3BFBF;
 	position: absolute;
@@ -102,7 +102,7 @@ p1
 {
 	margin: 0;
 	padding: 0;
-	font-family: CCBackBeatW00;
+	font-family: CCBackBeatW00-Light;
 	font-size: 1.2em;
 	color: #FFF;
 	position: absolute;
@@ -117,7 +117,7 @@ p2
 	margin: 0px auto;
 	padding: 0;
 	width: 550px;
-	font-family: CCBackBeatW00;
+	font-family: CCBackBeatW00-Light;
 	font-size: 1.2em;
 	color: #C3BFBF;
 	position: absolute;
