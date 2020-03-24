@@ -52,7 +52,7 @@ body
         url('CCBackBeatW00-Light.woff') format('woff'),
         url('CCBackBeatW00-Light.ttf') format('truetype'),
         url('CCBackBeatW00-Light.svg#CCBackBeatW00-Light') format('svg');
-    font-weight: 300;
+    font-weight: normal;
     font-style: normal;
 }
 
